@@ -1,0 +1,151 @@
+.user-2,
+.user-3,
+.user-4 {
+    left: 750px;
+    width: 1250px;
+    height: 140px;
+    padding-top: 30px;
+    border: 1px solid grey;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+
+.single-user-information {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 500px;
+    left: 750px;
+    width: 1250px;
+    height: 140px;
+    padding-top: 30px;
+    border: 1px solid grey;
+}
+
+.user-2 {
+    top: 665px;
+}
+
+.user-3 {
+    top: 830px;
+}
+
+.user-4 {
+    top: 995px;
+}
+
+.user-info,
+.car-info,
+.rating-area,
+.bid-info,
+.btn-area {
+    padding-left: 70px;
+    padding-right: 70px;
+    /* background-color: #FFFF; */
+}
+
+.user-info,
+.car-info,
+.bid-info,
+.rating-area {
+    text-align: center;
+    border-right: 1px solid #D9D9D9;
+    height: 100px;
+}
+
+.user-profile {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 5px;
+}
+
+.user-profile img {
+    border-radius: 50%;
+}
+
+.user-name {
+    padding-left: 20px;
+}
+
+.userName {
+    font-weight: bold;
+}
+
+.car-info {
+    line-height: 5px;
+}
+
+.car-model {
+    font-weight: bold;
+    background-color: #FFFF;
+}
+
+.car-model-year {
+    color: #929292;
+}
+
+.rating-header {
+    color: #929292;
+    background-color: #FFFF !important;
+}
+
+.rating-area {
+    line-height: 5px;
+}
+
+.rating-number {
+    font-weight: bold;
+    background-color: #FFFF !important;
+}
+
+.rating-icon {
+    color: #F0BC37;
+    background-color: #FFFF !important;
+}
+
+.bid-info {
+    line-height: 5px;
+}
+
+.bid-header {
+    color: #929292;
+    background-color: #FFFF !important;
+}
+
+.bid-price {
+    font-weight: bold;
+    background-color: #FFFF !important;
+}
+
+.btn-area button {
+    /* height: 25px; */
+    /* width: 84px; */
+    margin-top: 8px;
+    color: white;
+    border: none;
+}
+
+.accept-btn {
+    background-color: #4CAF50;
+}
+
+.accept-btn:hover {
+    background-color: #4CAF50;
+}
+
+.decline-btn {
+    background-color: #F8754B;
+}
+
+.decline-btn:hover {
+    background-color: #F8754B;
+}
+
+.btn-area p {
+    margin-top: 2px;
+    color: #929292;
+    background-color: #FFFF !important;
+    font-size: 8px;
+    line-height: 5px;
+}

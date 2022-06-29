@@ -1,0 +1,16 @@
+.ant-slider-track{
+    background-color: #4CAF50;
+}
+
+.ant-slider-handle,.ant-slider-handle-1, .ant-slider-handle-2{
+    background-color: #4CAF50;
+}
+
+.ant-slider-handle:focus,.ant-slider-handle-1:focus, .ant-slider-handle-2:focus{
+    border: solid 2px #4CAF50;
+    background-color: #4CAF50;
+}
+
+::selection{
+    background-color: #4CAF50;
+}

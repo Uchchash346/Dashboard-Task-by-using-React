@@ -1,0 +1,57 @@
+div {
+    background-color: #FFFF;
+}
+
+.proposal-status-area {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    height: 178px;
+    width: 350px;
+    left: 350px;
+    top: 100px;
+    background-color: #FFFF;
+    display: block;
+    padding: 10px;
+}
+
+#header-text {
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: bold;
+}
+
+#normal-text {
+    color: rgba(157, 157, 157, 0.85);
+}
+
+.text-area {
+    padding-left: 20px;
+}
+
+.text-area p {
+    background-color: #FFFF;
+    text-align: left;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-group button {
+    border: 1px solid #D9D9D9;
+    color: black;
+    padding: 10px 24px;
+    width: 30%;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-group button:hover {
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+}

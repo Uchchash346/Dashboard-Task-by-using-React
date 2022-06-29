@@ -1,0 +1,70 @@
+.main {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    height: 80px;
+    left: 323px;
+    top: 0px;
+    background-color: #FFFF;
+}
+
+
+.text-transport {
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.first-item-label {
+    position: absolute;
+    width: 68px;
+    height: 22px;
+    left: 349px;
+    top: 29px;
+    background-color: #FFFF;
+}
+
+.separator {
+    position: absolute;
+    width: 6px;
+    height: 22px;
+    left: 426px;
+    top: 29px;
+    background-color: #FFFF;
+}
+
+.last-item-label {
+    position: absolute;
+    width: 63px;
+    height: 22px;
+    left: 441px;
+    top: 29px;
+    background-color: #FFFF;
+}
+
+#bell-icon {
+    position: absolute;
+    right: 200px;
+    top: 23px;
+    width: 24px;
+    height: 25px;
+    cursor: pointer;
+}
+
+#user-image {
+    position: absolute;
+    right: 140px;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+#logout-button {
+    position: absolute;
+    right: 95px;
+    top: 23px;
+    width: 24px;
+    height: 23.17px;
+    cursor: pointer;
+}

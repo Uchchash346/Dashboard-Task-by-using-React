@@ -1,0 +1,56 @@
+div {
+    background-color: #FFFF;
+}
+
+.price-filter-area {
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    height: 178px;
+    width: 350px;
+    left: 350px;
+    top: 300px;
+    background-color: #FFFF;
+    display: block;
+    padding: 10px;
+}
+
+#header-text {
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: bold;
+}
+
+#normal-text {
+    color: rgba(157, 157, 157, 0.85);
+}
+
+.text-area {
+    padding-left: 20px;
+}
+
+.text-area p {
+    background-color: #FFFF;
+    text-align: left;
+}
+
+.slider-area {
+    background-color: #FFFF;
+}
+
+.price-tag {
+    flex-direction: row;
+    display: flex;
+    padding-left: 20px;
+}
+
+.low-price {
+    text-align: left;
+}
+
+.high-price {
+    text-align: right;
+}
